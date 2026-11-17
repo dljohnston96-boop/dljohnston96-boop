@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 Information Technology Project:</h2>
 
-- <b>Microsoft Copilot</b>
-  - [Creating an Agent using Microsoft Copilot](https://github.com/dljohnston96-boop/creating_an_agent)
+- <b>Microsoft Copilot Studio</b>
+  - [Creating an Agent using Microsoft Copilot Studio](https://github.com/dljohnston96-boop/creating_an_agent)
